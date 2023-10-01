@@ -30,3 +30,4 @@ Several campaigns targeting sugary predators have been launched in New York City
 - Assess the implementation of the NYC Department of Health and Mental Hygiene community framework with the distribution of educational materials.
 - Assess the timeframe between the updated media campaigns of SSB between 2010-2020.
 - Assess patterns related to SSB consumption and NYC SSB distribution of educational materials.
+ 
